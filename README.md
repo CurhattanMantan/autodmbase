@@ -1,0 +1,2 @@
+# autodmbase
+contoh autodmbase
